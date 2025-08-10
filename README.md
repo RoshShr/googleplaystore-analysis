@@ -6,7 +6,7 @@ This beginner Python project analyzes the `googleplaystore.csv` dataset from Kag
 - Data cleaning
 - App category trends
 - Ratings distribution
-- Visualizations using matplotlib
+
 
 ## How to Run
 1. Install dependencies: `pip install pandas matplotlib`
